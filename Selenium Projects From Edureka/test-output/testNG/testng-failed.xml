@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG]" parallel="classes">
+  <test name="Test Grouping(failed)" parallel="classes">
+    <classes>
+      <class name="testNG.TestNGDependencyUsingFacebook">
+        <methods>
+          <include name="loginToFacebook"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- testNG.TestNGDependencyUsingFacebook -->
+      <class name="testNG.TestNGAssertions">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="testEquality"/>
+          <include name="invokeBrowser"/>
+        </methods>
+      </class> <!-- testNG.TestNGAssertions -->
+    </classes>
+  </test> <!-- Test Grouping(failed) -->
+</suite> <!-- Failed suite [TestNG] -->

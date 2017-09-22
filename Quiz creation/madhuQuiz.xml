@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+ 
+
+
+
+    <items>
+      <item id="1">
+        <question> What is the formula 2πR for? (π is the symbol for ‘pi’)</question>
+        <options>
+        <answer>The circumference of a circle</answer>
+        <answer>area</answer>
+        <answer>tangent of a circle</answer>
+        <answer>radius of a circle</answer>
+        </options>
+		<answer1>The circumference of a circle</answer1>
+      </item>
+	  
+      <item id="2">
+      <question> What is missing out of the trio. Sine, Cosine and…?</question>
+       <options>
+        <answer>cot</answer>
+        <answer>Tangent</answer>
+        <answer>secant</answer>
+        <answer>vertex</answer>
+        </options>
+		<answer1>Tangent</answer1>
+      </item>		
+     
+ <item id="3">
+        <question> If it takes 3 men 2 hours to dig a hole, how long will it theoretically take one man?</question>
+      <options>
+        <answer>5hr</answer>
+        <answer>6hr</answer>
+        <answer>7hr</answer >
+        <answer>8hr</answer>
+        </options>
+		  <answer1>7hr </answer1>
+      </item>	 
+	  <item id="4">
+        <question> Whose theorem states that ‘a square on the hypotenuse is equal to the sum of the squares on the other two sides?</question>
+       <options>
+        <answer>Abel's curve theorem </answer>
+        <answer >Ado's theorem</answer>
+        <answer>phythagoras</answer>
+        <answer>Balinski's theorem</answer>
+        </options>
+		  <answer1>phythagoras</answer1>
+      </item>	
+	   <item id="5">
+	   <question> What is two cubed?</question>
+       <options>
+        <answer>4 </answer>
+        <answer >2</answer>
+        <answer >6</answer>
+        <answer>8</answer>
+        </options>
+		  <answer1>8</answer1>
+      </item>
+	  <item id="6">
+	   <question> If a bag of 30 sweets weighs 20g, how many sweets would weigh 1kg?</question>
+        <options>
+        <answer>1000</answer>
+        <answer >100</answer>
+        <answer >1200</answer>
+        <answer>1500</answer>
+        </options>
+		  <answer1>1500</answer1>
+      </item>
+	  <item id="7">
+	   <question> What is the next number in the series; 1, 4, 9, 16, …?</question>
+        <options>
+        <answer>20</answer>
+        <answer >36</answer>
+        <answer >40</answer>
+        <answer >25</answer>
+        </options>
+		  <answer1 >25</answer1>
+      </item>
+	  
+	   <item id="9">
+	   <question>  The roman numeral XXIV is how many?</question>
+        <options>
+        <answer>14</answer>
+        <answer >34</answer>
+        <answer>24</answer>
+        <answer >54</answer>
+        </options>
+		  <answer1 >24</answer1>
+      </item>
+	   
+	   <item id="10">
+	   <question> How many faces does a dodecahedron have?</question>
+      <options>
+        <answer>12</answer>
+        <answer >16</answer>
+        <answer >14</answer>
+        <answer >18</answer>
+        </options>
+		  <answer1 >12</answer1>
+      </item>
+    </items>

@@ -1,0 +1,78 @@
+<weeks>
+    <week>
+        <date>2012/01/23 00:00:00</date>
+        <riddle>Q1 - What is correct syntax for main method of a java class?
+		</riddle>
+        <lastWeekSolution>A - public static void main(String[] args)</lastWeekSolution>
+    </week>
+    <week>
+        <date>2012/01/30 00:00:00</date>
+        <riddle>Q 2 - What is the size of long variable?</riddle>
+        <lastWeekSolution>D - 64 bit</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/02/06 00:00:00</date>
+        <riddle>Q 3 - What is the default value of int variable?</riddle>
+        <lastWeekSolution>A - 0</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/02/13 00:00:00</date>
+        <riddle>ipso lorem 3</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/02/20 00:00:00</date>
+        <riddle>ipso lorem 4 </riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/02/27 00:00:00</date>
+        <riddle>ipso lorem 5</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/03/05 00:00:00</date>
+        <riddle>ipso lorem 6</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/03/12 00:00:00</date>
+        <riddle>ipso lorem 7</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/03/19 00:00:00</date>
+        <riddle>ipso lorem 8</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/03/26 00:00:00</date>
+        <riddle>ipso lorem 9</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/04/02 00:00:00</date>
+        <riddle>ipso lorem 10</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/04/09 00:00:00</date>
+        <riddle>ipso lorem 11</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/04/16 00:00:00</date>
+        <riddle>ipso lorem 12</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/04/23 00:00:00</date>
+        <riddle>ipso lorem 13</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+        <week>
+        <date>2012/04/30 00:00:00</date>
+        <riddle>ipso lorem 14</riddle>
+        <lastWeekSolution>I'm Going to get this</lastWeekSolution>
+    </week>
+</weeks>

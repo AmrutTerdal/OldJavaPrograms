@@ -1,0 +1,247 @@
+<quiz>  
+<question>  
+  <q1>Q1 - What is correct syntax for main method of a java class?</q1>  
+  <options>
+<a>A - public static int main(String[] args)</a>
+
+<b>B - public int main(String[] args)</b>
+
+<c>C - public static void main(String[] args)</c>
+
+<d>D - None of the above</d>
+</options>
+<answer>
+answer is Option C.
+Explaination
+Correct syntax is public static void main(String[] args).
+</answer>
+</question>
+
+<question>  
+  <q2>Q 2 - What is the size of long variable?</q2>  
+  <options>
+<a>A - 8 bit</a>
+
+<b>B - 16 bit</b>
+
+<c>C - 32 bit</c>
+
+<d>D - 64 bit</d>
+
+</options>
+<answer>
+Answer : D
+Explaination
+The long data type is represented by 64-bit two's complement integer.
+
+Minimum value: -263
+
+Maximum value: 263-1
+</answer>  
+</question>
+
+<question>  
+
+  <q3>Q 3 - What is the default value of int variable?</q3>  
+  
+<options>
+<a>A - 0</a>
+
+<b>B - 0.0</b>
+
+<c>C - null</c>
+
+<d>D - not defined</d>
+
+</options>
+
+<answer>
+Answer : A
+Explaination
+int variable has default value of 0 if defined as an instance/static variable.
+</answer>  
+</question>
+
+<question>  
+
+<q4>Q 4 - What is the default value of Object variable?</q4>
+
+<options>
+<a>A - undefined</a>
+
+<b>B - 0</b>
+
+<c>C - null</c>
+
+<d>D - not defined</d>
+
+</options>
+
+<answer>
+Answer : C
+Explaination
+Object variable has default value of null if defined as an instance/static variable.
+</answer>  
+</question>
+
+<question>  
+
+<q5>Q 5 - What is an immutable object?</q5>
+
+<options>
+<a>A - An immutable object can be changed once it is created.</a>
+
+<b>B - An immutable object can't be changed once it is created.</b>
+
+<c>C - An immutable object is an instance of an abstract class.</c>
+
+<d>D - None of the above.</d>
+
+</options>
+
+<answer>
+Answer : B
+Explaination
+An immutable object can't be changed once it is created. String objects are immutable.
+</answer>  
+</question>
+
+<question>  
+
+<q6>Q 6 - What is an applet?</q6>
+
+<options>
+<a>A - An applet is a Java program that runs in a Web browser.</a>
+
+<b>B - Applet is a standalone java program.</b>
+
+<c>C - Applet is a tool.</c>
+
+<d>D - Applet is a run time environment.</d>
+
+</options>
+
+<answer>
+Answer : A
+Explaination
+An applet is a Java program that runs in a Web browser.
+</answer>  
+</question>
+
+<question>  
+
+<q7>Q 7 - Method Overriding is an example of</q7>
+
+<options>
+<a>A - Static Binding.</a>
+
+<b>B - Dynamic Binding.</b>
+
+<c>C - Both of the above.</c>
+
+<d>D - None of the above.</d>
+
+</options>
+
+<answer>
+Answer : B
+Explaination
+Method Overriding is example of dynamic Binding.</answer>  
+</question>
+
+<question>  
+
+<q8>Q 8 - Does garbage collection guarantee that a program will not run out of memory?</q8>
+
+<options>
+<a>A - True.</a>
+
+<b>B - False.</b>
+
+<c>C - Both of the above.</c>
+
+<d>D - None of the above.</d>
+
+</options>
+
+<answer>
+Answer : B
+Explaination
+Garbage collection does not guarantee that a program will not run out of memory. It is possible for programs to use up memory resources faster than they are garbage collected. It is also possible for programs to create objects that are not subject to garbage collection.</answer>  
+</question>
+
+<question>  
+
+<q9>Q 8 - Under what conditions is an object's finalize() method invoked by the garbage collector?</q9>
+
+<options>
+
+<a>A - When it detects that the object has become unreachable.</a>
+
+<b>B - As soon as object is set as null.</b>
+
+<c>C - At fixed intervalm it checks for null value.</c>
+
+<d>D - None of the above.</d>
+
+</options>
+
+<answer>
+Answer : B
+Explaination
+Garbage collection does not guarantee that a program will not run out of memory. It is possible for programs to use up memory resources faster than they are garbage collected. It is also possible for programs to create objects that are not subject to garbage collection.
+</answer>  
+</question>
+
+<question>  
+
+<q9>Q 9 - Under what conditions is an object's finalize() method invoked by the garbage collector?</q9>
+
+<options>
+
+<a>A - When it detects that the object has become unreachable.</a>
+
+<b>B - As soon as object is set as null.</b>
+
+<c>C - At fixed intervalm it checks for null value.</c>
+
+<d>D - None of the above.</d>
+
+</options>
+
+<answer>
+Answer : B
+Explaination
+Garbage collection does not guarantee that a program will not run out of memory. It is possible for programs to use up memory resources faster than they are garbage collected. It is also possible for programs to create objects that are not subject to garbage collection.
+</answer>  
+</question>
+
+<question>  
+
+<q10>Q 10 - which operator is considered to be with highest precedence?</q10>
+
+<options>
+
+<a>AA - () , []</a>
+
+<b>B - =</b>
+
+<c>C - ?:</c>
+
+<d>D - %</d>
+
+</options>
+
+<answer>
+Answer : A
+Explaination
+Postfix operators i.e () [] . is at the highest precedence.
+</answer>  
+</question>
+
+
+
+
+  
+    
+</quiz>  

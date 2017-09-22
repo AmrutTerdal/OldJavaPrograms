@@ -1,0 +1,37 @@
+<ShapeFileMaps>
+
+<ShapeFileMap>
+ <shapeKey >WorldImageMapCoords</shapeKey > 
+ <shapeType>Polygon</shapeType>
+ <role>Country</role> 
+ <name>Countries of the world</name> 
+ <descWeb>mstrWeb.8173</descWeb>
+ <DescFlash>mstr.1622</DescFlash>
+ <descDesktop>12345 </descDesktop>
+ <shapeFile>VisFramework/map/WorldImageMapCoords.html</shapeFile>
+</ShapeFileMap>
+
+<ShapeFileMap>
+ <shapeKey >USACoords</shapeKey > 
+ <shapeType>Polygon</shapeType>
+ <role>USA</role> 
+ <name>States of USA</name> 
+ <descWeb>mstrWeb.8174</descWeb>
+ <DescFlash>mstr.1623</DescFlash>
+ <descDesktop>12345 </descDesktop>
+ <shapeFile>VisFramework/map/USAMapCoords.html</shapeFile>
+</ShapeFileMap>
+
+<ShapeFileMap>
+ <shapeKey >BrazilMapCoords</shapeKey > 
+ <shapeType>Polygon</shapeType>
+ <role>Brazil</role> 
+ <name>States of Brazil</name> 
+ <descWeb>mstrWeb.8175</descWeb>
+ <DescFlash>mstr.1622</DescFlash>
+ <descDesktop>12345 </descDesktop>
+ <shapeFile>VisFramework/map/BrazilMapCoords.html</shapeFile>
+</ShapeFileMap>
+
+ 
+</ShapeFileMaps>

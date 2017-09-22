@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+
+<quiz>
+  <title>The Quiz</title>
+    <items>
+      <item>
+        <question>1. What is the formula 2pR for? (p is the symbol for ‘pi’)</question>
+        <answer correct="y">A.The circumference of a circle</answer>
+        <answer>B.area</answer>
+        <answer>C.tangent of a circle</answer>
+        <answer>D.radius of a circle</answer>
+		<answer>E.triangle of a circle</answer>
+      </item>
+	  
+      <item><question>2. What is missing out of the trio. Sine, Cosine and…?</question>
+        <answer>A.cot</answer>
+        <answer correct="y">B.Tangent</answer>
+        <answer>C.secant</answer>
+        <answer>D.vertex</answer>
+		<answer>E. none</answer>
+      </item>		
+     
+ <item>
+        <question>3. If it takes 3 men 2 hours to dig a hole, how long will it theoretically take one man?</question>
+        <answer>A.5hr</answer>
+        <answer correct="y">B.6hr</answer>
+        <answer>C.7hr</answer>
+        <answer>D.8hr</answer>
+		  <answer>E.9hr</answer>
+      </item>	 
+	  <item>
+        <question>4. Whose theorem states that ‘a square on the hypotenuse is equal to the sum of the squares on the other two sides?</question>
+        <answer>A.Abel's curve theorem </answer>
+        <answer >B.Ado's theorem</answer>
+        <answer correct="y">C.phythagoras</answer>
+        <answer>D.Balinski's theorem</answer>
+		  <answer>E.circle</answer>
+      </item>	
+	   <item>
+	   <question>  5. What is two cubed?</question>
+        <answer>A.4 </answer>
+        <answer >B.2</answer>
+        <answer >C.6</answer>
+        <answer correct="y">D.8</answer>
+		  <answer>E.1</answer>
+      </item>
+	  <item>
+	   <question>  6. If a bag of 30 sweets weighs 20g, how many sweets would weigh 1kg?</question>
+        <answer>A.1000</answer>
+        <answer >B.100</answer>
+        <answer >C.1200</answer>
+        <answer correct="y">D.1500</answer>
+		  <answer>E.150</answer>
+      </item>
+	  <item>
+	   <question>  7. What is the next number in the series; 1, 4, 9, 16, …?</question>
+        <answer>A.20</answer>
+        <answer >B.36</answer>
+        <answer >C.40</answer>
+        <answer >D.256</answer>
+		  <answer correct="y">E.25</answer>
+      </item>
+	  
+	   <item>
+	   <question> 9. The roman numeral XXIV is how many?</question>
+        <answer>A.14</answer>
+        <answer >B.34</answer>
+        <answer correct="y">C.24</answer>
+        <answer >D.54</answer>
+		  <answer >E.44</answer>
+      </item>
+	   
+	   <item>
+	   <question> 10. How many faces does a dodecahedron have?</question>
+        <answer correct="y">A.12</answer>
+        <answer >B.16</answer>
+        <answer >C.14</answer>
+        <answer >D.18</answer>
+		  <answer >E.4</answer>
+      </item>
+    </items>
+</quiz>

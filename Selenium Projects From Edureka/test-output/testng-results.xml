@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27566" started-at="2017-07-23T06:15:30Z" finished-at="2017-07-23T06:15:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27566" started-at="2017-07-23T06:15:30Z" finished-at="2017-07-23T06:15:58Z">
+      <class name="testNG.testingAmazon">
+        <test-method status="PASS" signature="f()[pri:0, instance:testNG.testingAmazon@224edc67]" name="f" duration-ms="8" started-at="2017-07-23T11:45:30Z" finished-at="2017-07-23T11:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:testNG.testingAmazon@224edc67]" name="invokeBrowser" duration-ms="5710" started-at="2017-07-23T11:45:30Z" finished-at="2017-07-23T11:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="openFacebook()[pri:0, instance:testNG.testingAmazon@224edc67]" name="openFacebook" duration-ms="21826" started-at="2017-07-23T11:45:36Z" depends-on-methods="testNG.testingAmazon.invokeBrowser" finished-at="2017-07-23T11:45:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFacebook -->
+      </class> <!-- testNG.testingAmazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

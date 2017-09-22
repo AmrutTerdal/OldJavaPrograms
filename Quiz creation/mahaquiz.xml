@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<data>
+  <question id="1">
+    <qtext>If i............a more reliable car,i would drive to Spain rather than fly</qtext>
+    <choices>
+      <choice>1.would have</choice>
+      <choice>2.have</choice>
+      <choice>3.had</choice>
+      <choice>4.would have had</choice>
+    </choices>
+    <answer>3</answer>
+  </question>
+  <question id="2">
+    <qtext>We must..........our students on subjects like health and sanitation beside the usual subjects</qtext>
+    <choices>
+      <choice>1.learn</choice>
+      <choice>2.teach</choice>
+      <choice>3.insist</choice>
+      <choice>4.educate</choice>
+    </choices>
+    <answer>4</answer>
+  </question>
+  <question id="3">
+    <qtext>Choose the best passive/active voice 'She makes cakes every Sunday'</qtext>
+    <choices>
+      <choice>1.Every Sunday cakes made by her</choice>
+      <choice>2.Cakes are made by her every Sunday</choice>
+      <choice>3.Cakes make her every sunday</choice>
+      <choice>4.Cakes were made by her every Sunday</choice>
+    </choices>
+    <answer>2</answer>
+  </question>
+  <question id="4">
+    <qtext>The best substitution for 'Beyond belief or understanding' </qtext>
+    <choices>
+      <choice>1.Incredible</choice>
+      <choice>2.Incredulous</choice>
+      <choice>3.Implausible</choice>
+      <choice>4.Unreliable</choice>
+    </choices>
+    <answer>1</answer>
+  </question>
+  <question id="5">
+    <qtext>Take your umberalla-I think...............is going to rain.</qtext>
+    <choices>
+      <choice>1.it</choice>
+      <choice>2.that</choice>
+      <choice>3.he</choice>
+      <choice>4.there</choice>
+    </choices>
+    <answer>1</answer>
+  </question>
+  <question id="6">
+    <qtext>We travelled to Paris ...... train</qtext>
+    <choices>
+      <choice>1.in</choice>
+      <choice>2.by</choice>
+      <choice>3.on</choice>
+      <choice>4.over</choice>
+    </choices>
+    <answer>2</answer>
+  </question>
+  <question id="7">
+    <qtext>............ is bad for health</qtext>
+    <choices>
+      <choice>1.To smoke</choice>
+      <choice>2.Smoked</choice>
+      <choice>3.Smoking</choice>
+      <choice>4.Smoke</choice>
+    </choices>
+    <answer>3</answer>
+  </question>
+  <question id="8">
+    <qtext>Do we...........pay for our drinks now?</qtext>
+    <choices>
+      <choice>1.have got to</choice>
+      <choice>2.have to</choice>
+      <choice>3.have</choice>
+      <choice>4.must</choice>
+    </choices>
+    <answer>2</answer>
+  </question>
+  <question id="9">
+    <qtext>I've worked here........three years</qtext>
+    <choices>
+      <choice>1.Since</choice>
+      <choice>2.for</choice>
+      <choice>3.from</choice>
+      <choice>4.in</choice>
+    </choices>
+    <answer>2</answer>
+  </question>
+  <question id="10">
+    <qtext>The men .........very busy</qtext>
+    <choices>
+      <choice>1.are</choice>
+      <choice>2.is</choice>
+      <choice>3.am</choice>
+      <choice>4.be</choice>
+    </choices>
+    <answer>1</answer>
+  </question>
+</data>
